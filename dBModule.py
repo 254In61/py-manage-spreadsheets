@@ -1,4 +1,3 @@
-"""Author: Allan Maseghe [allandavidke@gmail.com]"""
 """Modules to re-use in the main scripts"""
 """Created to remove the clutter on the main script too"""
 """REF: https://openpyxl.readthedocs.io/en/stable/tutorial.html"""
