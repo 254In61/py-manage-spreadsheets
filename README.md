@@ -1,6 +1,2 @@
-# xlData-openpyxl
-Code created to remotely manage an XL document and remove direct interaction with document.
-
->main script that gets one to perfom different options as per menu.
-
->Classes written to perfom the job.
+Code created for some project to enable interaction with XL document in the background.
+End objective is to "hide" the main DB from direct editing by end users.
