@@ -1,4 +1,3 @@
-"""Author : Allan D Maseghe/ allandavidke@gmail.com"""
 """Databases are walkin.xlsx and website.xlsx"""
 
 from dBModule import *
